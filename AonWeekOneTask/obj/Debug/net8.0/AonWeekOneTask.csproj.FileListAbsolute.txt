@@ -1,0 +1,14 @@
+C:\Users\Humam\source\repos\AonWeekOneTask\AonWeekOneTask\bin\Debug\net8.0\AonWeekOneTask.exe
+C:\Users\Humam\source\repos\AonWeekOneTask\AonWeekOneTask\bin\Debug\net8.0\AonWeekOneTask.deps.json
+C:\Users\Humam\source\repos\AonWeekOneTask\AonWeekOneTask\bin\Debug\net8.0\AonWeekOneTask.runtimeconfig.json
+C:\Users\Humam\source\repos\AonWeekOneTask\AonWeekOneTask\bin\Debug\net8.0\AonWeekOneTask.dll
+C:\Users\Humam\source\repos\AonWeekOneTask\AonWeekOneTask\bin\Debug\net8.0\AonWeekOneTask.pdb
+C:\Users\Humam\source\repos\AonWeekOneTask\AonWeekOneTask\obj\Debug\net8.0\AonWeekOneTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Humam\source\repos\AonWeekOneTask\AonWeekOneTask\obj\Debug\net8.0\AonWeekOneTask.AssemblyInfoInputs.cache
+C:\Users\Humam\source\repos\AonWeekOneTask\AonWeekOneTask\obj\Debug\net8.0\AonWeekOneTask.AssemblyInfo.cs
+C:\Users\Humam\source\repos\AonWeekOneTask\AonWeekOneTask\obj\Debug\net8.0\AonWeekOneTask.csproj.CoreCompileInputs.cache
+C:\Users\Humam\source\repos\AonWeekOneTask\AonWeekOneTask\obj\Debug\net8.0\AonWeekOneTask.dll
+C:\Users\Humam\source\repos\AonWeekOneTask\AonWeekOneTask\obj\Debug\net8.0\refint\AonWeekOneTask.dll
+C:\Users\Humam\source\repos\AonWeekOneTask\AonWeekOneTask\obj\Debug\net8.0\AonWeekOneTask.pdb
+C:\Users\Humam\source\repos\AonWeekOneTask\AonWeekOneTask\obj\Debug\net8.0\AonWeekOneTask.genruntimeconfig.cache
+C:\Users\Humam\source\repos\AonWeekOneTask\AonWeekOneTask\obj\Debug\net8.0\ref\AonWeekOneTask.dll
